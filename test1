@@ -1,0 +1,19 @@
+Reason: High Entropy
+Date: 2017-03-23 09:36:52
+Hash: 81b44f89faa760d72057b85fe3b9f6b7acbdb684
+Filepath: PythonMicroservice/envfile
+Branch: origin/master
+Commit: Build container for Python Micro Service
+
+@@ -1,9 +0,0 @@
+-APP_DEBUG=false
+-APP_TESTING=false
+-APP_MAIL_SERVER=email-smtp.eu-west-1.amazonaws.com
+-APP_MAIL_PORT=25
+-APP_MAIL_USE_TLS=true
+-APP_MAIL_USERNAME=AKIAJ7BTLDNK5PGA3L6A
+-APP_MAIL_PASSWORD=AgYRkQBaiIqH+5I5c4ZQSvBA0r70cz9gyq063LjrrAt9
+
+\ No newline at end of 
+
+
